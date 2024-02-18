@@ -1,6 +1,6 @@
-## Capstone Project - NLP Applications	
+# Capstone Project - NLP Applications	
 
-# Amazon Product Reviews Sentiment Analysis
+## Amazon Product Reviews Sentiment Analysis
 
 This project is a Python script that uses spaCy and TextBlob to analyze the sentiment of Amazon product reviews. 
 It takes a CSV file of product reviews as input and returns the sentiment polarity and label for each review.
@@ -11,7 +11,7 @@ Sentiment analysis is a useful technique for understanding the opinions and feel
 It can help businesses and organizations improve their products, services, 
 and marketing strategies by identifying the strengths and weaknesses of their offerings, as well as the needs and preferences of their customers.
 
-# How to install and run the project
+## How to install and run the project
 
 To install and run the project, you need to have Python 3 and pip installed on your system. You also need to install the following dependencies:
 
@@ -42,6 +42,6 @@ You can use the sample file "amazon_product_reviews.csv" from https://www.kaggle
 The script will then process the reviews and print the sentiment polarity and label for each review, as well as the average sentiment polarity and label for all the reviews. 
 You can also view the results in a pandas data frame by uncommenting the last line of the script.
 
-# Idea of the project
+## Idea of the project
 
-This is Task 21 - Capstone Project - NLP Applications	from CoGrammar/HiperionDev Bootcamp.
+This is Task 21 - Capstone Project - NLP Applications	from CoGrammar/HyperionDev Bootcamp.
