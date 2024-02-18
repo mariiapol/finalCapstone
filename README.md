@@ -45,3 +45,8 @@ You can also view the results in a pandas data frame by uncommenting the last li
 ## Idea of the project
 
 This is Task 21 - Capstone Project - NLP Applications	from CoGrammar/HyperionDev Bootcamp.
+
+## The resource
+
+The resource for the task used can be found in the attached PDF file, and there are described preprocessing steps and model.
+
